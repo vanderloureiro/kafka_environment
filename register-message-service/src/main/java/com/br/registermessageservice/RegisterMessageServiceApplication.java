@@ -1,13 +1,13 @@
-package com.br.kafkaconsumer;
+package com.br.registermessageservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class KafkaConsumerApplication {
+public class RegisterMessageServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(KafkaConsumerApplication.class, args);
+		SpringApplication.run(RegisterMessageServiceApplication.class, args);
 	}
 
 }

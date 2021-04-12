@@ -1,10 +1,10 @@
-package com.br.kafkaconsumer;
+package com.br.registermessageservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class KafkaConsumerApplicationTests {
+class RegisterMessageServiceApplicationTests {
 
 	@Test
 	void contextLoads() {

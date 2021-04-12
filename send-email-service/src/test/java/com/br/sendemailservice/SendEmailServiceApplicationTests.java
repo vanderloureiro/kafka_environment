@@ -1,10 +1,10 @@
-package com.br.kafkaproducer;
+package com.br.sendemailservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class KafkaProducerApplicationTests {
+class SendEmailServiceApplicationTests {
 
 	@Test
 	void contextLoads() {

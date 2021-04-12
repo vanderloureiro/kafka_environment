@@ -1,13 +1,13 @@
-package com.br.kafkaproducer;
+package com.br.sendemailservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class KafkaProducerApplication {
+public class SendEmailServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(KafkaProducerApplication.class, args);
+		SpringApplication.run(SendEmailServiceApplication.class, args);
 	}
 
 }
